@@ -29,8 +29,9 @@ measurements and predicts which type of flower it is.
 - Output Layer: 3 neurons (Softmax for classification)
 
 ## Results
-- Test Accuracy: 84%
-- Training Epochs: 20
+- Test Accuracy: 100%
+- Loss: 0.0767
+- Training Epochs: 50
 
 ## How to Run This Project
 1. Download the Iris.csv file from this repo
