@@ -20,6 +20,13 @@ measurements and predicts which type of flower it is.
 - Scikit-learn
 - Matplotlib
 - Google Colab (free online coding platform)
+- Model Architecture
+  
+## Model Architecture
+- The neural network is built using:
+- Input Layer: 4 neurons (for 4 features)
+- Hidden Layer(s): Dense layers with activation functions
+- Output Layer: 3 neurons (Softmax for classification)
 
 ## Results
 - Test Accuracy: 84%
